@@ -1,0 +1,10 @@
+div {
+    background-color: rgb(23, 39, 48);
+    color:lightskyblue;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif
+}
